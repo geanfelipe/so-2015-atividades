@@ -4,20 +4,20 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Gean Felipe dos Santos Moura
+:Matrícula: 20121144010621  
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Ler arquivos de texto
 
 
 cd
-  Descrição do comando
+  Entrar em diretórios
 
 
 cowsay
-  Descrição do comando
+  Chamar a 
 
 
 echo
@@ -33,7 +33,8 @@ exit
 
 
 help
-  Descrição do comando
+  Exibe a ajuda de um comando e as opções de argumentos.
+  Ex: help cd
 
 
 HISTTIMEFORMAT="%d/%m/%y"
@@ -41,11 +42,12 @@ HISTTIMEFORMAT="%d/%m/%y"
 
 
 hostname
-  Descrição do comando
+  Mostra o nome da máquina
 
 
 ifconfig
-  Descrição do comando
+  Mostra as interfaces de rede e as configura.
+  Ex: ifconfig wlan0 
 
 
 last
@@ -57,11 +59,11 @@ lastb
 
 
 ls
-  Descrição do comando
+  Lista diretório
 
 
 mkdir
-  Descrição do comando
+  Cria diretório
 
 
 nome="fulano
@@ -69,27 +71,27 @@ nome="fulano
 
 
 passswd
-  Descrição do comando
+  Muda a senha de usuário
 
 
 pwd
-  Descrição do comando
+  Exibe o diretório atual
 
 
 set
-  Descrição do comando
+ Lista todas as variáveis de ambiente,nome da máquina, arquitetura da máquina, usuário logado
 
 
 tree
-  Descrição do comando
+  Exibe as raízes do diretório atual
 
 
 tty
-  Descrição do comando
+  Mostra qual terminal está associado 
 
 
 vim
-  Descrição do comando
+  Editor de texto 
 
 
 wait
@@ -105,16 +107,16 @@ which
 
 
 while
-  Descrição do comando
+  Comando enquanto.
+  Ex: while [ $c -le 5 ] do [alguma coisa]  done
 
 
 who
-  Descrição do comando
-
+  Exibe usuários logados na máquina
 
 whoami
-  Descrição do comando
+  Exibe nome do usuário
 
 write
-  Descrição do comando
+  Escreve uma mensagem a outro usuário
 
